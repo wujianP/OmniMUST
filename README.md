@@ -1,2 +1,2 @@
 # OmniMUST
-This is a word which combines MUST and OmniMAE
+This is a work which combines MUST and OmniMAE
